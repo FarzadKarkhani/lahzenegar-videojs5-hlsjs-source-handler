@@ -1,5 +1,5 @@
 {
-  "name": "videojs5-hlsjs-source-handler",
+  "name": "lahzenegar-videojs5-hlsjs-source-handler",
   "author": {
     "name": "Lahzenegar",
     "email": "hi@lahzenegar.com"
@@ -11,12 +11,11 @@
   },
   "dependencies": {
     "hls.js": "^0.6.21",
-    "videojs-quality-picker": "^0.0.3"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:FarzadKarkhani/videojs5-hlsjs-source-handler"
+    "url": "git@github.com:FarzadKarkhani/lahzenegar-videojs5-hlsjs-source-handler"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
