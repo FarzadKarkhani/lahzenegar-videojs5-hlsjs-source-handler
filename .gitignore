@@ -4,4 +4,4 @@ debug/
 dist/
 .ruby-version
 toolkit/
-
+npm-debug.log
