@@ -1,8 +1,8 @@
 {
   "name": "videojs5-hlsjs-source-handler",
   "author": {
-    "name": "Streamroot",
-    "email": "contact@streamroot.io"
+    "name": "Lahzenegar",
+    "email": "hi@lahzenegar.com"
   },
   "version": "0.1.3",
   "main": "./lib/main.js",
@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:streamroot/videojs5-hlsjs-source-handler"
+    "url": "git@github.com:FarzadKarkhani/videojs5-hlsjs-source-handler"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
